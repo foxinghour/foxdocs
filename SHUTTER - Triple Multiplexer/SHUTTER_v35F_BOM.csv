@@ -1,0 +1,19 @@
+Qty;Value;Parts
+1;330n cap;C1
+5;10u/25V cap;C2, C6, C23, C24, C26
+18;100n cap;C3, C4, C5, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21
+2;1N4001 diode;D1, D2
+12;1N5711 diode;D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, DD1, DD2
+2;68R ferrite;FB1, FB2
+1;CD4053;IC1
+6;LM6172;IC2, IC3, IC4, IC5, IC6, IC8
+1;TL072;IC7
+13;PJ302M jack;J1 – J8, J10 – J14
+1;10-pin box header;J9
+11;100K resistor;R1, R2, R3, R4, R5, R6, R30, R31, R32, R48, R51
+15;1K resistor;R13, R14, R15, R16, R17, R18, R36, R37, R38, R39, R40, R41, R42, R43, R44
+1;20K resistor;R28
+1;4.99K resistor;R29
+17;499R resistor;R7, R8, R9, R10, R11, R12, R19, R20, R21, R33, R34, R35, R45, R46, R47, R49, R50
+1;7805 regulator;U3
+1;B100K pot;VR1
